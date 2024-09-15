@@ -11,7 +11,7 @@ Thank you for visiting, and I look forward to connecting and sharing insights!
 
 ### :computer: Data Analytics Projects:
 
-#### 1. [Cyclistic](https://github.com/omardissouki/Cyclistic-Case-Study)
+#### 1. [Cyclistic](https://github.com/omardissouki/Cyclistic)
 This project was completed as part of my Google Data Analytics Capstone.
 
 **Project Focus**: Comprehensive analysis of user behavior patterns for Cyclistic, aimed at improving marketing strategies and user engagement.
