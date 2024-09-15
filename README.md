@@ -18,11 +18,11 @@ This project was completed as part of my Google Data Analytics Capstone.
 
 **Explore the Project:**
 
-- **[Cyclistic Case Study Report](https://github.com/omardissouki/omardissouki/blob/main/My%20Portfolio/Cyclistic/Cyclistic%20Case%20Study.pdf)**: A detailed report outlining the analysis, findings, and recommendations.
-- **[Cyclistic Presentation](https://github.com/omardissouki/omardissouki/blob/main/My%20Portfolio/Cyclistic/Cyclistic.pptx)**: A summary presentation of the project’s key insights and visualizations.
+- **[Cyclistic Case Study Report](https://github.com/omardissouki/Cyclistic-Case-Study/blob/main/Cyclistic%20Case%20Study.pdf)**: A detailed report outlining the analysis, findings, and recommendations.
+- **[Cyclistic Presentation](https://github.com/omardissouki/Cyclistic-Case-Study/blob/main/Cyclistic.pptx)**: A summary presentation of the project’s key insights and visualizations.
 - **R Code**:
-  - [Analysis Code](https://github.com/omardissouki/omardissouki/blob/main/My%20Portfolio/Cyclistic/R/Code%20for%20Analysis): Code used during the analysis phase.
-  - [Tableau Data Preparation Code](https://github.com/omardissouki/omardissouki/blob/main/My%20Portfolio/Cyclistic/R/Code%20for%20Tableau): Contains all essential data from July 2022 to June 2023 used to create Tableau visualizations.
+  - [Analysis Code](https://github.com/omardissouki/Cyclistic-Case-Study/blob/main/R%20Code%20for%20Analysis): Code used during the analysis phase.
+  - [Tableau Data Preparation Code](https://github.com/omardissouki/Cyclistic-Case-Study/blob/main/R%20Code%20for%20Tableau): Contains all essential data from July 2022 to June 2023 used to create Tableau visualizations.
 - Dataset provided by Divvy in the Google Data Analytics course can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
 ---
 
@@ -38,7 +38,7 @@ This project is a conceptual UX design for a fitness app, showcasing skills in u
 
 **Explore the Project:**
 
-- **[Elevate Presentation](https://github.com/omardissouki/omardissouki/blob/main/My%20Portfolio/Elevate/ELEVATE.pdf)**: A summary presentation highlighting the design journey, key decisions, and visual outcomes.
+- **[Elevate Presentation](https://github.com/omardissouki/Elevate/blob/main/ELEVATE.pdf)**: A summary presentation highlighting the design journey, key decisions, and visual outcomes.
 - **Design Files**:
   - [High-Fidelity Design on Figma](https://www.figma.com/proto/M4puuD7AfBbTyoDshXah5T/Project-Elevate?page-id=307%3A6476&node-id=307-6542&viewport=3603%2C897%2C2.19&t=aqJvwajEUlGSLSKC-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=307%3A6511): View the final high-fidelity wireframes, showcasing the app’s core functionalities and visual design.
   - [Complete Design Framework on Figma](https://www.figma.com/design/M4puuD7AfBbTyoDshXah5T/Project-Elevate?node-id=307-6542&t=HWQ9e6iCp0RXp2X5-1): Explore the entire design framework, including high-fidelity wireframes, mockups, and the overall design structure.
