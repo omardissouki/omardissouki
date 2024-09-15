@@ -3,7 +3,7 @@
 
 Hi, I'm a mechanical engineering graduate with a passion for data analytics, I have experience using various tools to collect, clean, organize, and analyze data to drive informed business decisions. I am proficient in Excel, SQL, R, Tableau, MATLAB, and Python.
 
-This portfolio showcases my UX Design project and a user behavior analysis project. I will be adding more projects as I continue to explore and grow in the data analytics field. 
+This portfolio showcases my UX design and user behavior analysis projects. I will be adding more projects as I continue to explore and grow in the data analytics field. 
 
 Thank you for visiting, and I look forward to connecting and sharing insights!
 
