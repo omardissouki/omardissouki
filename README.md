@@ -11,7 +11,7 @@ Thank you for visiting, and I look forward to connecting and sharing insights!
 
 ### :computer: Data Analytics Projects:
 
-#### 1. [Cyclistic](https://github.com/omardissouki/omardissouki/tree/main/My%20Portfolio/Cyclistic)
+#### 1. [Cyclistic](https://github.com/omardissouki/Cyclistic-Case-Study)
 This project was completed as part of my Google Data Analytics Capstone.
 
 **Project Focus**: Comprehensive analysis of user behavior patterns for Cyclistic, aimed at improving marketing strategies and user engagement.
@@ -31,7 +31,7 @@ Stay tuned for more projects as I continue to develop my expertise in data analy
 ---
 ### :iphone: UX Design Project:
 
-#### [Elevate](https://github.com/omardissouki/omardissouki/tree/main/My%20Portfolio/Elevate)
+#### [Elevate](https://github.com/omardissouki/Elevate)
 This project is a conceptual UX design for a fitness app, showcasing skills in user experience design and user interface optimization.
 
 **Project Focus**: Design and development of a fitness app aimed at enhancing user engagement through intuitive design, A/B testing, and data-driven improvements.
